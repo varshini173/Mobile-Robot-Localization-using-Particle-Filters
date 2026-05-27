@@ -40,6 +40,14 @@ The simulation displays:
 - Particle distribution
 - Localization heatmap
 
+## Screenshots
+
+### Intermediate Localization (Step 5)
+![Step 5](screenshots/step5.png)
+
+### Final Localization Result (Step 12)
+![Step 12](screenshots/step12.png)
+
 ## Authors
 - Hema Varshini J
 - Soundarya Valli
